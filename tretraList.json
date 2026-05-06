@@ -1,0 +1,18 @@
+{
+  "1/30": {
+    "id": "1/47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wandering Martial Artist Shin",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/-TretraTCG/img/Set 1/1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wandering Martial Artist Shin",
+    "type": "Character",
+    "cost": "3"
+  }
+}
